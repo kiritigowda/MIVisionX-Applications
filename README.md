@@ -1,3 +1,5 @@
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # MIVisionX Applications
 
 A Compilation of all MIVisionX applications available open-source
