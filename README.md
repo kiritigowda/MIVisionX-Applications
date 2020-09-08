@@ -40,6 +40,12 @@ This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Librari
 
 <p align="center"> <img src="https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/raw/master/docs/images/DGtest.gif"> </p>
 
+### Kubernetes Scaling of Inference with MIVisionX
+
+This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/tree/master/apps/cloud_inference#cloud-inference-application) uses Kubernetes infrastructure to launch Dockers to perform inference on multi-GPU multi-Rack to acheive linear scaling in Inference applications
+
+<p align="center"> <img src="./images/k8-MIVisionX.gif"> </p>
+
 ### Cloud Application
 
 This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/tree/master/apps/cloud_inference#cloud-inference-application) does inference using a client-server system.
