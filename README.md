@@ -20,6 +20,12 @@ This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Librari
 
 <p align="center"> <img width="90%" src="https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/raw/master/samples/images/skinToneDetect_image.PNG"> </p>
 
+### RGBD SLAM V2
+
+[RGBDSLAMv2-MIVisionX](https://github.com/ICURO-AI-LAB/RGBDSLAMv2-MIVisionX) - This is an implementation of RGBDSLAM_V2 that utilizes AMD MIVisionX for feature detection and ROCm OpenCL for offloading computations to Radeon GPUs. This application is used to create 3D maps using RGB-D Cameras.
+
+<p align="center"> <img width="70%" src="https://github.com/ICURO-AI-LAB/RGBDSLAMv2-MIVisionX/blob/master/media/rgbdslamv2_fr2desk_octomap.jpg?raw=true" /> </p>
+
 ### Canny Edge Detector
 
 This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/tree/master/samples#cannygdf) is set to showcase how to use AMD's OpenVX and RunVX application.
@@ -93,9 +99,3 @@ This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Librari
 [Traffic Vision](https://github.com/srohit0/trafficVision#traffic-vision) - This app detects cars/buses in live traffic at a phenomenal 50 frames/sec with HD resolution (1920x1080) using deep learning network Yolo-V2. The model used in the app is optimized for inferencing performance on AMD-GPUs using the MIVisionX toolkit.
 
 <p align="center"> <img width="70%" src="https://raw.githubusercontent.com/srohit0/trafficVision/master/media/traffic_viosion.gif" /> </p>
-
-### RGBD SLAM V2
-
-[RGBDSLAMv2-MIVisionX](https://github.com/ICURO-AI-LAB/RGBDSLAMv2-MIVisionX) - This is an implementation of RGBDSLAM_V2 that utilizes AMD MIVisionX for feature detection and ROCm OpenCL for offloading computations to Radeon GPUs. This application is used to create 3D maps using RGB-D Cameras.
-
-<p align="center"> <img width="70%" src="https://github.com/ICURO-AI-LAB/RGBDSLAMv2-MIVisionX/blob/master/media/rgbdslamv2_fr2desk_octomap.jpg?raw=true" /> </p>
