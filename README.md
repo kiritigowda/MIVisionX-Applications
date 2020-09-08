@@ -46,6 +46,18 @@ This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Librari
 
 <p align="center"> <img src="./images/k8-MIVisionX.gif"> </p>
 
+### MIVisionX Validation Tool
+
+[MIVisionX ML Model Validation Tool](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/blob/master/apps/mivisionx_validation_tool#mivisionx-python-ml-model-validation-tool) using pre-trained `ONNX` / `NNEF` / `Caffe` models to analyze, summarize, & validate.
+
+<p align="center"> <img src="./images/RALI-validation.gif"> </p>
+
+### AMD Data Analysis Toolkit
+
+[ADAT](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/tree/master/toolkit/analysis_and_visualization/classification#mivisionx---classification-visualization) provides you with tools for accomplishing your tasks throughout the whole neural net life-cycle, from verifing the model to validating the model to deploying them for your target platforms.
+
+<p align="center"> <img src="./images/ADAT-MIVisionX.gif"> </p>
+
 ### Cloud Application
 
 This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/tree/master/apps/cloud_inference#cloud-inference-application) does inference using a client-server system.
@@ -69,12 +81,6 @@ This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Librari
 This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/blob/master/apps/mivisionx_openvx_classifier/README.md) shows how to run supported pre-trained caffe models with MIVisionX RunTime.
 
 <p align="center"> <img src="https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/raw/master/docs/images/mivisionx_openvx_classifier_imageClassification.png"></p>
-
-### MIVisionX Validation Tool
-
-[MIVisionX ML Model Validation Tool](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/blob/master/apps/mivisionx_validation_tool#mivisionx-python-ml-model-validation-tool) using pre-trained `ONNX` / `NNEF` / `Caffe` models to analyze, summarize, & validate.
-
-<p align="center"><img width="90%" src="https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX/raw/master/docs/images/validation-2.png" /></p>
 
 ### MIVisionX WinML Classification
 
