@@ -80,9 +80,13 @@ This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Librari
 
 [MIVisionX-Classifier](https://github.com/kiritigowda/MIVisionX-Classifier) - This application runs know CNN image classifiers on live/pre-recorded video stream.
 
+<p align="center"> <img width="60%" src="https://github.com/kiritigowda/MIVisionX-Classifier/raw/master/data/classifier.png"> </p>
+
 ### YoloV2
 
 [YOLOv2](https://github.com/kiritigowda/YoloV2NCS) - Run tiny yolov2 (20 classes) with AMD's MIVisionX
+
+<p align="center"> <img width="60%" src="https://github.com/kiritigowda/YoloV2NCS/raw/master/data/yolo_dog.jpg"> </p>
 
 ### Traffic Vision
 
@@ -93,3 +97,5 @@ This sample [application](https://github.com/GPUOpen-ProfessionalCompute-Librari
 ### RGBD SLAM V2
 
 [RGBDSLAMv2-MIVisionX](https://github.com/ICURO-AI-LAB/RGBDSLAMv2-MIVisionX) - This is an implementation of RGBDSLAM_V2 that utilizes AMD MIVisionX for feature detection and ROCm OpenCL for offloading computations to Radeon GPUs. This application is used to create 3D maps using RGB-D Cameras.
+
+<p align="center"> <img width="70%" src="https://github.com/ICURO-AI-LAB/RGBDSLAMv2-MIVisionX/blob/master/media/rgbdslamv2_fr2desk_octomap.jpg?raw=true" /> </p>
